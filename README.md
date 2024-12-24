@@ -13,19 +13,27 @@ goruntu_kalite.m , imageQualityIndex.m and kappaindex.m codes are for accuarcy a
 ---Outputs: “change” is change map and “All_Errors” is error values computed using ground truth
 ___________________________________________________________________________________________
 For Ottawa Application In Matlab
+
 [1]	load('Ottawa_Dataset.mat')
+
 [2]	[change,All_Errors]=hts_f(img1,img2,gt,55)
 ___________________________________________________________________________________________
 For Bern Application In Matlab
+
 [1]	load('Bern_Dataset.mat')
+
 [2]	[change,All_Errors]=hts_f(img1,img2,gt,11)
 ___________________________________________________________________________________
 For Yellow River Application
+
 [1]	load('Yellow_River_Dataset.mat')
+
 [2]	[change,All_Errors]=hts_f(img1,img2,gt,73)
 ___________________________________________________________________________________
 For Farmland Application (Not included in our article)
+
 [1]	load(FarmC.mat')
+
 [2]	[change,All_Errors]=hts_f(img1,img2,gt,127)
 
 
