@@ -4,6 +4,7 @@ Hts_f.m: Main code for change detection
 goruntu_kalite.m , imageQualityIndex.m and kappaindex.m codes are for accuarcy asessment In Matlab:
 %Suggested Windows size (sws in code) for non local means filter (11 for Bern dataset, 55 for Ottawa dataset, 73 for Yellow River dataset, and 127 for Farmland dateset);
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 [change,All_Errors]=hts_f(img1,img2,gt,sws)
 
