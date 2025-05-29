@@ -38,5 +38,8 @@ For Farmland Application (Not included in our article)
 
 
 
-Please use this to cite:
+How to Cite This Work
+
+If you use this code or ideas from this repository in your research or project, please cite our related publication:
+
 Atasever, Ü. H., Elzein, A., & Abbas, H. H. (2025). Unsupervised change detection in SAR images using a non-local mean filter and hyperbolic tangent sigmoid function. Remote Sensing Letters, 16(5), 483–493. https://doi.org/10.1080/2150704X.2025.2471592
