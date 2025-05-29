@@ -37,3 +37,6 @@ For Farmland Application (Not included in our article)
 [2]	[change,All_Errors]=hts_f(img1,img2,gt,127)
 
 
+
+Please use this to cite:
+Atasever, Ü. H., Elzein, A., & Abbas, H. H. (2025). Unsupervised change detection in SAR images using a non-local mean filter and hyperbolic tangent sigmoid function. Remote Sensing Letters, 16(5), 483–493. https://doi.org/10.1080/2150704X.2025.2471592
